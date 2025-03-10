@@ -1,11 +1,12 @@
 # Man_Power_Supply
 
-Overview 
+<b>Overview 
 
 The Man Power Supply App is a comprehensive solution that streamlines the job posting and application process. It provides a forum for employers to publish job openings and job seekers to discover suitable employment.
 
 
 Components
+<br>
 
 
 Database Helper:   Oversees the creation, updating, and retrieval of jobs-related data. Manages user information, such as login credentials, profile modifications, and user registration.
