@@ -13,37 +13,38 @@ Database Helper:   Oversees the creation, updating, and retrieval of jobs-relate
 **Activities:**
 
 1.	Login & Signup Activity:  Handle user authentication
-    ![alt text](image.png) ![alt text](image-1.png)
-    <br><br>
+        ![alt text](image.png)
+  	    ![alt text](image-1.png)
+        <br><br>
     
-2.  JobListingsActivity :  Displaying homepage with all users jobs.
+3.  JobListingsActivity :  Displaying homepage with all users jobs.
 
 
     ![alt text](image-2.png)
     <br><br>
 
-3. JobDetailActivity: Displays detailed information about a specific job.
+4. JobDetailActivity: Displays detailed information about a specific job.
 
     ![alt text](image-3.png)
     <br><br>
 
-4. JobPosting:  Clicking any item shows Job detail activity.
+5. JobPosting:  Clicking any item shows Job detail activity.
 
     ![alt text](image-4.png)
     <br><br>
 
-5. Update Job Activity: If user selects 'Update', Update job post activity appears without 'Cancel' or 'Update' buttons.
+6. Update Job Activity: If user selects 'Update', Update job post activity appears without 'Cancel' or 'Update' buttons.
 
     ![alt text](image-5.png)
     <br><br>
 
-6.  UserProfile & UpdateProfileActivity: Manage user profiles.
+7.  UserProfile & UpdateProfileActivity: Manage user profiles.
 
     ![alt text](image-6.png) ![alt text](image-9.png)
     <br><br>
 
 
-7.  MyJobDetailActivity & MyJobsListingActivity: Employers to manage their own postings.
+8.  MyJobDetailActivity & MyJobsListingActivity: Employers to manage their own postings.
 
     ![alt text](image-7.png) ![alt text](image-8.png)
     <br><br>
