@@ -14,13 +14,8 @@ Database Helper:   Oversees the creation, updating, and retrieval of jobs-relate
 Activities:
 
 1.	Login & Signup Activity:  Handle user authentication
-
+   ![alt text](https://github.com/SadmanTajwer/Man_Power_Supply/blob/main/Images/Sign_Up.jpg) ![alt text](https://github.com/SadmanTajwer/Man_Power_Supply/blob/main/Images/Sign_in.jpg)
   
-
-
-
-
-
 2.  JobListingsActivity :  Displaying homepage with all users jobs.
 
 
